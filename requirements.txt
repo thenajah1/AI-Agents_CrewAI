@@ -1,0 +1,6 @@
+crewai
+llama-cpp-python
+transformers
+accelerate
+langchain
+sentence-transformers
