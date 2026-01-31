@@ -11,15 +11,15 @@ Utiliser un modèle de langage local open source pour garantir confidentialité,
 Définir des tâches dépendantes pour simuler des workflows réalistes.
 Fournir une base modulaire et évolutive pour des applications IA collaboratives.
 Technologies utilisées
-Python 3.11+
-CrewAI : framework d’orchestration multi-agents
-llama-cpp-python : interface Python pour modèles LLM locaux (Mistral-7B Instruct)
-Mistral-7B Instruct : modèle de langage open source quantifié au format GGUF
-Huggingface Hub : pour le téléchargement des modèles
-Visual Studio Build Tools & CMake : outils nécessaires à la compilation des dépendances natives sous Windows
+- Python 3.11+
+- CrewAI : framework d’orchestration multi-agents
+- llama-cpp-python : interface Python pour modèles LLM locaux (Mistral-7B Instruct)
+- Mistral-7B Instruct : modèle de langage open source quantifié au format GGUF
+- Huggingface Hub : pour le téléchargement des modèles
+- Visual Studio Build Tools & CMake : outils nécessaires à la compilation des dépendances natives sous Windows
 
 Cas d’usage
-Analyse collaborative de données complexes
-Automatisation de stratégies marketing multi-étapes
-Prototypage rapide de systèmes IA multi-agents hors ligne
-Recherche et développement en intelligence artificielle décentralisée
+- Analyse collaborative de données complexes
+- Automatisation de stratégies marketing multi-étapes
+- Prototypage rapide de systèmes IA multi-agents hors ligne
+- Recherche et développement en intelligence artificielle décentralisée
